@@ -1,0 +1,225 @@
+2020-08-09 10:38:51,649 ERROR 9506 [-/127.0.0.1/-/5031ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%24key&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5022,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9506
+hostname: koolearndembp
+
+2020-08-09 10:42:46,061 ERROR 9527 [-/127.0.0.1/-/5028ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9527
+hostname: koolearndembp
+
+2020-08-09 10:56:14,788 ERROR 9569 [-/127.0.0.1/-/5030ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5021,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9569
+hostname: koolearndembp
+
+2020-08-09 11:06:48,599 ERROR 9626 [-/127.0.0.1/-/5033ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9626
+hostname: koolearndembp
+
+2020-08-09 11:09:07,462 ERROR 9635 [-/127.0.0.1/-/5034ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9635
+hostname: koolearndembp
+
+2020-08-09 11:09:51,845 ERROR 9643 [-/127.0.0.1/-/5033ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5025,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9643
+hostname: koolearndembp
+
+2020-08-09 11:12:10,374 ERROR 9653 [-/127.0.0.1/-/5026ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5022,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 11:44:50,709 ERROR 9653 [-/127.0.0.1/-/5013ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5009,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 11:50:25,534 ERROR 9653 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 3
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 11:51:34,340 ERROR 9653 [-/127.0.0.1/-/5003ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":4,"createSocketErrorCount":0,"closeSocketCount":4,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 4
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5002,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 11:56:10,355 ERROR 9653 [-/127.0.0.1/-/5007ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":5,"createSocketErrorCount":0,"closeSocketCount":5,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 5
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 14:21:28,467 ERROR 9653 [-/127.0.0.1/-/5017ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":6,"createSocketErrorCount":0,"closeSocketCount":6,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 6
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5013,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9653
+hostname: koolearndembp
+
+2020-08-09 14:22:36,784 WARN 9653 A client (::ffff:127.0.0.1:49710) error [HPE_INVALID_METHOD] occurred: Parse Error: Invalid method encountered
+2020-08-09 14:25:59,948 ERROR 10277 [-/127.0.0.1/-/5037ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 10277
+hostname: koolearndembp
+
+2020-08-09 14:26:08,165 ERROR 10277 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/koolearn/Documents/study/egg-example/node_modules/urllib/lib/urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 10277
+hostname: koolearndembp
+

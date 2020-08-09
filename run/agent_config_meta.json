@@ -1,0 +1,264 @@
+{
+  "keys": "/Users/koolearn/Documents/study/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/koolearn/Documents/study/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "devDependencies": {
+      "egg-bin": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/koolearn/Documents/study/egg-example/node_modules/egg/config/config.default.js"
+}
